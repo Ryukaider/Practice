@@ -6,6 +6,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
+            // Comment for test branch
         }
     }
 }
